@@ -1,0 +1,116 @@
+   0 cd-home
+   1 cd /home
+   2 mkdir /animals
+   3 tree
+   4 mkdir animals
+   5 tree
+   6 cd /animals
+   7 mkdir dogs
+   8 mkdir cats
+   9 mkdir fish
+  10 tree
+  11 pwd
+  12 cd home
+  13 cd /home
+  14 tree
+  15 cd /animals
+  16 pwd
+  17 cd /home/animals/
+  18 mkdir dogs
+  19 mkdir kats
+  20 mkdir fish
+  21 tree
+  22 cd/home
+  23 cd /home/
+  24 tree
+  25 cd /animals/dogs/pwd
+  26 pwd
+  27 cd /animals/dogs
+  28 touch plato.txt
+  29 tree
+  30 sd /animals/kats
+  31 sd /animals/ fish
+  32 sd /animals/fish/
+  33 sd /animals/kats
+  34 cd /animals/kats
+  35 cd /home
+  36 cd /home /animals/fish/
+  37 tree
+  38 pwd
+  39 ls
+  40 ls -l
+  41 ls -la
+  42 ls
+  43 cd /animals/
+  44 cd /home/animals/dogs/
+  45 touch pluto.txt
+  46 pwd
+  47 tree
+  48 cd /home/animals/kats/
+  49 touch garfield.txt
+  50 cd /home/animals/fish/
+  51 touch nemo.txt
+  52 cd /home
+  53 pwd
+  54 tree
+  55 cd /tmp/
+  56 touch adam.txt
+  57 cd /home/
+  58 mkdir humans
+  59 tree
+  60 cd /tmp
+  61 tree
+  62 cp adam.txt /home/humans/
+  63 ls
+  64 cd /home/
+  65 ls
+  66 tree
+  67 cd /tmp/
+  68 touch evA
+  69 tree
+  70 touch evA.txt
+  71 tree
+  72 cd /opt/
+  73 ls
+  74 mkdir eve
+  75 cd /tmp/
+  76 tree
+  77 tree / opt
+  78 free
+  79 cd /tmp
+  80 l
+  81 ls
+  82 free
+  83 cd/ opt
+  84 cd /opt
+  85 ls
+  86 cd /tmp/
+  87 mv /tmp/evA.txt /opt/eve/ evka.txt
+  88 free /opt
+  89 mv /tmp/evA. /opt/eve/ evka.txt
+  90 cd /opt/eve/
+  91 free /tmp/
+  92 cd /tmp/
+  93 ls
+  94 mv /tmp/evA.txt /opt/eve/
+  95 cd /opt/
+  96 ls
+  97 cd /opt/eve/
+  98 ls
+  99 cd /home/humans/mkdir people
+ 100 cd /home/humans
+ 101 mkdir people
+ 102 cd /opt/eve/
+ 103 ls
+ 104 mv /opt/eve/evA.txt /home/humans/people/
+ 105 tree /home/humans/people/
+ 106 cd /home/
+ 107 tree
+ 108 mv /opt/eve/evA.txt /home/humans/
+ 109 cd /home/humans/
+ 110 mkdir /eva.txt
+ 111 cd /home/
+ 112 tree
+ 113 ls /home/humans/people/
+ 114 history >tmp/history.txt
+ 115  history > /tmp/history.txt
